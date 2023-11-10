@@ -328,7 +328,7 @@ body{
     margin: 10px 0;
     font-size: 24px;
     text-align: center;
-    color: red;
+    color: green;
 }
 
 .meals ul {
@@ -370,10 +370,11 @@ p{
     word-spacing: 3px;
     line-height: 35px;
     text-align: justify;
-    color: blue;
-    background-color: orange;
+    color: white;
+    background-color: green;
     border-radius: 20px;
     padding: 5px;
+    width:100%;
     
 }
 
