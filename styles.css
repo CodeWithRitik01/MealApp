@@ -299,6 +299,8 @@ body{
 
 
 
+/* styles for showing favourites after clicking favourite button */
+
 .meals {
     border: 1px solid #ddd;
     border-radius: 5px;
